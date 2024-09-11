@@ -24,6 +24,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedanida&show_icons=true&locale=en&layout=compact" alt="syedanida" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedanida&show_icons=true&locale=en" alt="syedanida" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedanida&" alt="syedanida" /></p>
