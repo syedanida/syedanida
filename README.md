@@ -4,8 +4,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.istockphoto.com/id/1333284937/vector/muslim-student-girl-with-laptop-studying-young-arab-woman-in-hijab.jpg?s=612x612&w=0&k=20&c=t-CK2Lo9bab2lfstiO2IiMydHGnpzLRIUvxeTGB1eh4=">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syedanida&label=Profile%20views&color=0e75b6&style=flat" alt="syedanida" /> </p>
-
 - 🔭 I’m currently working on **a range of projects that involve software engineering, data science, and machine learning, focusing on developing innovative solutions that integrate advanced data-driven technologies.**
 - 🌱 I’m currently learning **advanced data mining techniques, machine learning algorithms, and exploring tools for automation like AutoML, while also enhancing my skills in software development and prompt engineering.**
 - 📫 How to reach me **syedanidakhader@gmail.com**
