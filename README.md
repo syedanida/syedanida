@@ -4,7 +4,7 @@
 
 
 <div>
-  <h1 align="center" style="color: #4a4e69; font-size: 3rem; margin-top: 20px;">Hello World! 👋, I'm Nida</h1>
+  <h1 align="center" style="color: #4a4e69; font-size: 3rem; margin-top: 20px;">Hello World! I'm Nida 👋 </h1>
   <h3 align="center" style="color: #6d6875; margin-top: 10px;">Enthusiastic Software Engineer with a focus on Data Science and Machine Learning</h3>
 </div>
 
