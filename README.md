@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="450" width="100%" src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc2MTEwODYsIm5iZiI6MTczNzYxMDc4NiwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTIzVDA1Mzk0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE3MDg2NTNmYmJlMDBhZTUzYjlmMWMwYjU5NTYxZDY0Nzc2NjViMzhlODE1Y2IzOTdkNGRkOGI4ODFhZGNlOTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.a99QHhRnfcM3srj1Po-ZanBHuwrMNrbw0MwXUtl4W-E" alt="Banner" />
+  <img height="350" width="100%" src="https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif" alt="Banner" />
 </div>
 
 
