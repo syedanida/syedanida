@@ -91,9 +91,9 @@ I'm a **Software Engineer @ Amazon** who loves turning messy data into **clear d
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+  <img src="https://raw.githubusercontent.com/syedanida/syedanida/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=ff69b4&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=syedanida&label=Profile%20views&color=ff69b4&style=flat" alt="Profile views" />
 </div>
