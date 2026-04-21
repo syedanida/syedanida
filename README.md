@@ -35,12 +35,6 @@ I'm a **Software Engineer @ Amazon** who loves turning messy data into **clear d
 </tr>
 </table>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=syedanida&show_icons=true&hide_border=true&title_color=ff9ad5&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" height="165" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=syedanida&hide_border=true&background=0D1117&ring=ff9ad5&fire=ff9ad5&currStreakLabel=ff9ad5" height="165" alt="Streak stats" />
-
-</div>
 
 ---
 
