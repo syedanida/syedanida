@@ -24,14 +24,7 @@ I'm a **Software Engineer @ Amazon** who loves turning messy data into **clear d
 
 > “Small experiments, fast feedback, big impact.”
 
-</td>
-<td width="38%" valign="middle" align="center">
 
-<img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="220" alt="fun gif" />
-<br/>
-<img src="https://img.shields.io/badge/Amazon-Software%20Engineer-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Amazon badge" />
-
-</td>
 </tr>
 </table>
 
