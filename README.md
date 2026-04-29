@@ -16,7 +16,7 @@
 <tr>
 <td width="62%" valign="top">
 
-I'm a **Software Engineer @ Amazon** who loves turning messy data into **clear decisions** and **useful products**.
+I'm a **Software Engineer** who loves turning messy data into **clear decisions** and **useful products**.
 
 - **Right now:** building + learning across **software engineering**, **data science**, and **ML** (from experimentation to deployment).
 - **Currently leveling up:** deeper **data mining**, modern **ML workflows**, **AutoML**, and sharper **prompt engineering** for real-world automation.
